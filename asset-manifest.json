@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.6064fb45.css",
+    "main.js": "/web/static/js/main.ef3d5046.js",
+    "static/js/787.aadca95f.chunk.js": "/web/static/js/787.aadca95f.chunk.js",
+    "static/media/fondoban.jpg": "/web/static/media/fondoban.e404661340cc6278ac19.jpg",
+    "static/media/cat3.jpeg": "/web/static/media/cat3.1d6756c780fdf6e28be6.jpeg",
+    "static/media/santa.png": "/web/static/media/santa.54df807958091c7a15d9.png",
+    "static/media/imagenOferta2.jpeg": "/web/static/media/imagenOferta2.f395aa7b270ca6e88904.jpeg",
+    "static/media/historia.jpg": "/web/static/media/historia.bec066baa83b2c79ab21.jpg",
+    "static/media/cat4.jpg": "/web/static/media/cat4.ea6ed17d1cc7e610dc0e.jpg",
+    "static/media/imagenOferta1.jpg": "/web/static/media/imagenOferta1.21f0d3c9b1b6bee516ea.jpg",
+    "static/media/cat2.jpeg": "/web/static/media/cat2.aeaa660f6d04f5163bbb.jpeg",
+    "static/media/imagenOrigenNavidad.jpg": "/web/static/media/imagenOrigenNavidad.7fc449182d014247a7ec.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/web/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/web/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/web/index.html",
+    "static/media/nav-icon2.svg": "/web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.6064fb45.css.map": "/web/static/css/main.6064fb45.css.map",
+    "main.ef3d5046.js.map": "/web/static/js/main.ef3d5046.js.map",
+    "787.aadca95f.chunk.js.map": "/web/static/js/787.aadca95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6064fb45.css",
+    "static/js/main.ef3d5046.js"
+  ]
+}
