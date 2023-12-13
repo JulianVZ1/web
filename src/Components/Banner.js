@@ -123,7 +123,6 @@ export const Banner = () =>{
                 <p>Desde la decoración del árbol de Navidad hasta las deliciosas comidas festivas...</p>
             </Col>
             <Col xs={12} md={6}>
-                {/* Coloca el reproductor de video aquí */}
                 <iframe
                 title="Tradiciones Navideñas"
                 width="100%"
@@ -197,7 +196,6 @@ export const Banner = () =>{
                         <p>Desde decoraciones festivas hasta regalos cuidadosamente seleccionados, encuentra productos exclusivos a precios irresistibles.</p>
                     </Col>
                     <Col xs={12} md={6} className="d-flex justify-content-around">
-                        {/* Contenido de las ofertas, como imágenes y detalles de productos */}
                         <div className="oferta-item">
                         <img src={imagenOferta1} alt="Oferta 1" />
                         <p>Producto en oferta</p>
